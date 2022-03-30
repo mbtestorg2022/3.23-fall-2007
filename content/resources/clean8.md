@@ -5,6 +5,7 @@ description: "Lecture presentation on the Hamiltonian in a periodic potential, t
   \ proof of Bloch\u2019s theorem."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/6f349951d2f95813100f1a5c119f8ca4_clean8.pdf
 file_type: application/pdf
+parent_uid: 5b1fc039-9fef-b255-e45d-0bccbea70b5f
 resourcetype: Document
 title: ERIODICPERIODICPERIODICPER
 uid: 6f349951-d2f9-5813-100f-1a5c119f8ca4

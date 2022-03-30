@@ -6,6 +6,7 @@ description: Lecture presentation on Newtonian, Lagrangian, and Hamiltonian form
   boundary conditions, and the reciprocal lattice.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/bdee98a0206ca9a769be9280799802c0_lec7.pdf
 file_type: application/pdf
+parent_uid: 5b1fc039-9fef-b255-e45d-0bccbea70b5f
 resourcetype: Document
 title: One Bloch at a Time
 uid: bdee98a0-206c-a9a7-69be-9280799802c0

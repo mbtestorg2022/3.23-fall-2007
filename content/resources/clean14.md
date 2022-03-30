@@ -6,6 +6,7 @@ description: Lecture presentation on chemical potential as a function of T, popu
   operation under bias and rectification.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/669aac7f94a24f38133c913e56fde388_clean14.pdf
 file_type: application/pdf
+parent_uid: 5b1fc039-9fef-b255-e45d-0bccbea70b5f
 resourcetype: Document
 title: Inhomogenous Semiconductors
 uid: 669aac7f-94a2-4f38-133c-913e56fde388

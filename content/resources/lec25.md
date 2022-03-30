@@ -6,6 +6,7 @@ description: Lecture presentation on semiconductor quantum wells, photoluminesce
   self-exchange, the color of gems, and inelastic light scattering.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1494fa88caf273af1db9092d3ab8df63_lec25.pdf
 file_type: application/pdf
+parent_uid: 5b1fc039-9fef-b255-e45d-0bccbea70b5f
 resourcetype: Document
 title: Last Lecture!
 uid: 1494fa88-caf2-73af-1db9-092d3ab8df63
